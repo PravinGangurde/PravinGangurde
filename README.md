@@ -135,15 +135,6 @@ https://www.linkedin.com/in/pravin-gangurde-834947276/
 
 ---
 
-## 🔗 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/pravin-gangurde-834947276/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -165,3 +156,40 @@ https://www.linkedin.com/in/pravin-gangurde-834947276/
 ## ⚡ Fun Fact
 
 I enjoy finding patterns in data the same way others enjoy solving puzzles 🧩
+
+---
+## 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="mailto:pravingangurde3066@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pravin-gangurde-834947276/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/PravinGangurde" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <b>🙏 Thank you for visiting my profile! Feel free to reach out — let's build something amazing together. 🚀</b>
+</p>
+
+<br clear="both"/>
+
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&center=true&vCenter=true&width=1000&color=212121&lines=The+goal+is+to+turn+data+into+information%2C+and+information+into+insight." alt="Typing SVG" />
+</p>
+
+
+
