@@ -150,6 +150,16 @@ https://www.linkedin.com/in/pravin-gangurde-834947276/
 <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
 </p>
+<!-- ### 🔧 Tools & Technologies -->
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="120"/>
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/8434/8434310.png" width="50"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-darkblue?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power BI-yellow?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-green?logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-purple?logo=tableau&logoColor=white" />
+</p>
 
 ---
 
