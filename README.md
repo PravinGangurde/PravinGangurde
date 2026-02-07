@@ -44,56 +44,57 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-Data Analyst | 6 Months Industry Experience @ Infoz IT Solutions  
-Turning Data into Actionable Business Insights
+📊 Data Analyst | 6 Months Industry Experience @ Infoz IT Solutions  
+<br/>
+🔍 Turning Raw Data into Actionable Business Insights
 </h3>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a **Data Analyst** with **6 months of hands-on industry experience** at **Infoz IT Solutions**, where I worked on real-world business datasets to extract insights that support data-driven decision-making.  
-I specialize in **data cleaning, exploratory data analysis (EDA), SQL querying, and dashboard development**.
-
-I enjoy converting **raw, messy data into meaningful stories** that businesses can understand and act upon.
+- 📌 *Data Analyst* with hands-on experience in real-world business datasets  
+- 🏢 *6 months of industry experience* at *Infoz IT Solutions*  
+- 📈 Strong in *data-driven decision making & storytelling*  
+- 🧠 Passionate about discovering hidden patterns in data  
 
 ---
 
 ## 🔭 What I’m Currently Working On
 
-- Analyzing real-world business datasets to identify trends & patterns  
-- Creating interactive and executive-level dashboards using **Power BI**  
-- Writing optimized **SQL queries** for reporting and analysis  
-- Performing **EDA using Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- 📊 Analyzing *real-world business datasets* to identify trends & patterns  
+- 📈 Building *interactive Power BI dashboards* for stakeholders  
+- 🗄️ Writing *optimized SQL queries* for reporting & insights  
+- 🐍 Performing *EDA (Exploratory Data Analysis)* using Python  
 
 ---
 
 ## 🌱 What I’m Currently Learning
 
-- Advanced **Power BI** (DAX, Data Modeling, Performance Optimization)  
-- **SQL Performance Tuning**  
-- **Cloud for Data Analytics (AWS)**  
-- Solving **real-world business case studies**
+- ⚙️ *Advanced Power BI* (DAX, Data Modeling)  
+- 🧮 *SQL Performance Optimization*  
+- ☁️ *Cloud for Data Analytics (AWS)*  
+- 📚 *Real-world business case studies*  
 
 ---
 
-## 👯 Looking to Collaborate On
+## 👯 Open to Collaboration On
 
-- Data Analysis & Business Intelligence projects  
-- Power BI / Excel dashboard development  
-- Python & SQL-based analytics projects  
-- Entry-level analytics projects with real business use cases
-
----
-
-## 🤝 Looking for Guidance In
-
-- Data storytelling & stakeholder reporting  
-- Industry-level analytics problem-solving approaches
+- 📊 *Data Analysis & Business Intelligence Projects*  
+- 📈 *Dashboard Development* (Power BI / Excel)  
+- 🐍 *Python & SQL based data projects*  
+- 🧑‍💼 *Entry-level analytics projects for real business use cases*  
 
 ---
 
-## 📂 Featured Project
+## 🤝 Looking for Help With
+
+- 📖 *Data storytelling & stakeholder reporting*  
+- 🧠 *Industry-level analytics problem solving*  
+
+---
+
+## 📂 Project
 
 🔹 **Titanic – Exploratory Data Analysis (EDA)**  
 👉 End-to-end EDA project using Python to uncover survival patterns and insights.
@@ -101,37 +102,42 @@ I enjoy converting **raw, messy data into meaningful stories** that businesses c
 🔗 **Project Link:**  
 [https://github.com/PravinGangurde/Titanic-Exploratory-Data-Analysis](https://github.com/PravinGangurde/Titanic-Exploratory-Data-Analysis)
 
+
+## 👨‍💻 Projects
+
+🔗 *Titanic Exploratory Data Analysis*  
+👉 [View Project on GitHub](https://https://github.com/PravinGangurde/Titanic-Exploratory-Data-Analysis)
+
 ---
 
 ## 💬 Ask Me About
 
-- Data Cleaning & Data Preprocessing  
-- Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL (Joins, Subqueries, Aggregations)  
-- Power BI dashboards & reports  
-- Excel for data analysis
+- 🧹 Data Cleaning & Preprocessing  
+- 🐍 Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)  
+- 🗄️ SQL (Joins, Subqueries, Aggregations)  
+- 📊 Power BI Dashboards & Reports  
+- 📑 Excel for Data Analysis  
 
 ---
 
-## 📄 Professional Experience
+## 📄 Experience
 
-**Data Analyst – Infoz IT Solutions (6 Months)**  
-- Worked on real-time business datasets  
-- Cleaned and transformed raw data to improve data accuracy and reliability  
-- Built interactive **Power BI dashboards** for management decision-making  
-- Used **SQL** for data extraction, joins, and aggregations  
-- Performed **EDA** to identify trends, patterns, and anomalies  
-- Delivered actionable insights that supported business decisions
+### 🏢 Data Analyst – Infoz IT Solutions (6 Months)
 
+ 🔹 Worked on *real-time business datasets*  
+ 🔹 Cleaned & transformed raw data to improve accuracy  
+ 🔹 Created *interactive Power BI dashboards* for decision-making  
+ 🔹 Used *SQL* for data extraction, joins & aggregations  
+ 🔹 Performed *EDA* to uncover trends and patterns  
+ 🔹 Delivered insights that supported *business decisions*
+ 
 ---
 
 ## 📫 How to Reach Me
 
 - 📧 **Email:** pravingangurde3066@gmail.com  
-- 💼 **LinkedIn:**  
-https://www.linkedin.com/in/pravin-gangurde-834947276/
-- 📂 **GitHub:**  
-  https://github.com/PravinGangurde
+- 💼 **LinkedIn:**  https://www.linkedin.com/in/pravin-gangurde-834947276/
+- 📂 **GitHub:**  https://github.com/PravinGangurde
 
 ---
 
@@ -150,6 +156,8 @@ https://www.linkedin.com/in/pravin-gangurde-834947276/
 <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
 </p>
+
+
 <!-- ### 🔧 Tools & Technologies -->
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="120"/>
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/8434/8434310.png" width="50"/>
