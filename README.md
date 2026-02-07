@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   💼 Infoz It  &nbsp; | &nbsp;🎓 BCA ( COMPUTER APPLICATION ) &nbsp; | &nbsp; 🌍 From Nashik, Maharashtra
 </p>
 <p align="center">
+  <!-- AWS -->
+ <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Python"      width="100" style="margin: 10px;"/></a>
 
   <!-- Python -->
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="100" style="margin: 10px;" />
@@ -42,6 +44,7 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=2ECC71&background=FFFFFF00&center=true&vCenter=true&width=260&lines=visiting+my" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=1200&color=6C3483&background=FFFFFF00&center=true&vCenter=true&width=300&lines=GitHub+profile!" />
 
+---
 
 <h3 align="center">
 📊 Data Analyst | 6 Months Industry Experience @ Infoz IT Solutions  
@@ -150,8 +153,8 @@ Here are some ideas to get you started:
 
 
 <!-- ### 🔧 Tools & Technologies -->
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="120"/>
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/8434/8434310.png" width="50"/>
+<!-- <img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="120"/> -->
+<!-- <img align="left" src="https://cdn-icons-png.flaticon.com/512/8434/8434310.png" width="50"/> -->
 <p align="left">
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-darkblue?logo=mysql&logoColor=white" />
