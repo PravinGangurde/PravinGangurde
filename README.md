@@ -94,19 +94,10 @@ Here are some ideas to get you started:
 
 ---
 
-## 📂 Project
-
-🔹 **Titanic – Exploratory Data Analysis (EDA)**  
-👉 End-to-end EDA project using Python to uncover survival patterns and insights.
-
-🔗 **Project Link:**  
-[https://github.com/PravinGangurde/Titanic-Exploratory-Data-Analysis](https://github.com/PravinGangurde/Titanic-Exploratory-Data-Analysis)
-
-
 ## 👨‍💻 Projects
 
 🔗 *Titanic Exploratory Data Analysis*  
-👉 [View Project on GitHub](https://https://github.com/PravinGangurde/Titanic-Exploratory-Data-Analysis)
+👉 [View Project on GitHub](https://github.com/PravinGangurde/Titanic-Exploratory-Data-Analysis)
 
 ---
 
