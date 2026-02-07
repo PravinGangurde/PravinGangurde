@@ -170,7 +170,7 @@ Here are some ideas to get you started:
 I enjoy finding patterns in data the same way others enjoy solving puzzles 🧩
 
 ---
-## 🤝 Let's Connect & Collaborate
+## 🌐Let's Connect & Collaborate 🤝
 
 <p align="center">
   <a href="mailto:pravingangurde3066@gmail.com">
