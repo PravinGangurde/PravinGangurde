@@ -36,6 +36,12 @@ Here are some ideas to get you started:
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="100" style="margin: 10px;" />
 
 </p>
+.<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=FF4C4C&background=FFFFFF00&center=true&vCenter=true&width=260&lines=Thank" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=1D9BF0&background=FFFFFF00&center=true&vCenter=true&width=260&lines=you+for" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=0&color=2ECC71&background=FFFFFF00&center=true&vCenter=true&width=260&lines=visiting+my" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=1200&color=6C3483&background=FFFFFF00&center=true&vCenter=true&width=300&lines=GitHub+profile!" />
+
 
 <h3 align="center">
 Data Analyst | 6 Months Industry Experience @ Infoz IT Solutions  
