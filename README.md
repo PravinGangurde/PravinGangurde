@@ -101,6 +101,8 @@ Here are some ideas to get you started:
 
 🔗 *Titanic Exploratory Data Analysis*  
 👉 [View Project on GitHub](https://github.com/PravinGangurde/Titanic-Exploratory-Data-Analysis)
+👉 [View Project on GitHub](https://github.com/PravinGangurde/Retail-Store-Analysis)
+
 
 ---
 
