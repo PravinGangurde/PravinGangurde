@@ -100,7 +100,10 @@ Here are some ideas to get you started:
 ## 👨‍💻 Projects
 
 🔗 *Titanic Exploratory Data Analysis*  
-👉 [View Project on GitHub](https://github.com/PravinGangurde/Titanic-Exploratory-Data-Analysis)/n
+👉 [View Project on GitHub](https://github.com/PravinGangurde/Titanic-Exploratory-Data-Analysis)
+
+
+🔗 *Retail-Store-Analysis*  
 👉 [View Project on GitHub](https://github.com/PravinGangurde/Retail-Store-Analysis)
 
 
