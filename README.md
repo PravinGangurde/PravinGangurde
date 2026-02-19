@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <!-- AWS -->
- <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Python"      width="100" style="margin: 10px;"/></a>
+ <!-- <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Python"      width="100" style="margin: 10px;"/></a> -->
 
   <!-- Python -->
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="100" style="margin: 10px;" />
@@ -144,7 +144,7 @@ Here are some ideas to get you started:
 ## 🛠️ Languages & Tools
 
 <p align="left">
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+<!-- <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a> -->
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
@@ -161,11 +161,11 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://cdn-icons-png.flaticon.com/512/1685/1685239.png" width="120"/> -->
 <!-- <img align="left" src="https://cdn-icons-png.flaticon.com/512/8434/8434310.png" width="50"/> -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-darkblue?logo=mysql&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/SQL-darkblue?logo=mysql&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Power BI-yellow?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-green?logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-purple?logo=tableau&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Tableau-purple?logo=tableau&logoColor=white" /> -->
 </p>
 
 ---
